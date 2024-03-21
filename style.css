@@ -1,3 +1,9 @@
+@font-face {
+    font-family: Buttermilk;
+    src: url(./Buttermilk.woff2);
+}
+
+
 *{
     margin: 0;
     padding: 0;
@@ -10,7 +16,7 @@ html,body{
 #bg{
     height: 100%;
     width: 100%;
-    background-image: url(./4K-Ultra-HD-Laptop-Wallpaper.jpg);
+    background-image: url(./4K-Ultra-HD-Laptop-Wallpaper.webp);
     background-size: cover;
 }
 h1{
